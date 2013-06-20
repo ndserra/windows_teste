@@ -1,1 +1,2 @@
-#Seja bem vindo ao meu primeiro repositório for windows 8
+#Seja bem vindo ao meu primeiro repositï¿½rio for windows 8
+#Este comentario foi inserido na pagina do github.com
